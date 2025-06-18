@@ -1,0 +1,7 @@
+[
+  { "name": "MMLU-Pro", "year": 2024, "category": "Multi-Task Reasoning", "arxiv_id": "2406.01574" },
+  { "name": "GSM8K", "year": 2021, "category": "Mathematical Reasoning", "arxiv_id": "2110.14168" },
+  { "name": "SWE-bench Verified", "year": 2024, "category": "Software Engineering", "arxiv_id": "2310.06770" },
+  { "name": "GAIA", "year": 2024, "category": "General AI Assistant", "arxiv_id": "2311.12983" },
+  { "name": "LiveCodeBench", "year": 2024, "category": "Contamination-Free Code", "arxiv_id": "2403.07974" }
+]
