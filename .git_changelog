@@ -6,3 +6,4 @@ Author: Soujanya Gupta <158287001+GuptaSoujanya@users.noreply.github.com>
 - [2025-06-18] chore: scaffold awesome-ai-eval-suite curation repository and README
 - [2025-07-01] docs: curation: add foundational reasoning papers (GSM8K, MATH, HumanEval)
 - [2025-07-14] docs: curation: add general knowledge benchmarks (MMLU, MMLU-Pro, ARC)
+- [2025-07-28] docs: curation: add agentic benchmarks (SWE-bench, GAIA, WebArena)
