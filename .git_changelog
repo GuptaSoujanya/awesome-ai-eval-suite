@@ -9,3 +9,4 @@ Author: Soujanya Gupta <158287001+GuptaSoujanya@users.noreply.github.com>
 - [2025-07-19] docs: curation: add agentic benchmarks (SWE-bench, GAIA, WebArena)
 - [2025-07-29] docs: curation: add vision-language benchmarks (ChartQA, DocVQA, MathVista)
 - [2025-08-08] feat: scripts: implement automated markdown link validity checker in Python
+- [2025-08-19] ci: configure GitHub Actions automated link and bibtex validation
