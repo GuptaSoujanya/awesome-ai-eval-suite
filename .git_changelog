@@ -13,3 +13,4 @@ Author: Soujanya Gupta <158287001+GuptaSoujanya@users.noreply.github.com>
 - [2025-08-29] docs: curation: add safety and red-teaming benchmarks (Do-Not-Answer, WildJailbreak)
 - [2025-09-09] feat: scripts: implement BibTeX citation extractor and formatter
 - [2025-09-19] test: verify BibTeX extractor parses standard arXiv and NeurIPS entries
+- [2025-09-29] docs: curation: add inference efficiency benchmarks (vLLM, SpecDecode, FastChat)
