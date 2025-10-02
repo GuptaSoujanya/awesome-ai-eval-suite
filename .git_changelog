@@ -11,3 +11,4 @@ Author: Soujanya Gupta <158287001+GuptaSoujanya@users.noreply.github.com>
 - [2025-08-23] feat: scripts: implement automated markdown link validity checker in Python
 - [2025-09-06] ci: configure GitHub Actions automated link and bibtex validation
 - [2025-09-19] docs: curation: add safety and red-teaming benchmarks (Do-Not-Answer, WildJailbreak)
+- [2025-10-02] feat: scripts: implement BibTeX citation extractor and formatter
