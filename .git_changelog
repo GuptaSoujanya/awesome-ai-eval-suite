@@ -17,3 +17,4 @@ Author: Soujanya Gupta <158287001+GuptaSoujanya@users.noreply.github.com>
 - [2025-10-10] docs: taxonomy: categorize benchmarks by evaluation cost and compute requirements
 - [2025-10-20] docs: update README with comprehensive index and contribution guidelines
 - [2025-10-31] chore: release v1.0.0 curated taxonomy milestone
+- [2025-11-10] docs: add hardware requirements table for running local evaluation suites
