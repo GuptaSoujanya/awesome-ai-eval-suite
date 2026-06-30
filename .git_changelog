@@ -22,3 +22,4 @@ Author: Soujanya Gupta <158287001+GuptaSoujanya@users.noreply.github.com>
 - [2026-03-19] feat: scripts: add interactive terminal search tool for finding benchmark papers
 - [2026-04-23] test: verify terminal search tool indexes all 200+ curated papers accurately
 - [2026-05-27] docs: add comprehensive taxonomy diagram illustrating evaluation categories
+- [2026-06-30] fix: correct BibTeX citation keys for recent 2026 preprint papers
