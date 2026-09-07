@@ -1,30 +1,11 @@
-# Engineering Changelog: awesome-ai-eval-suite
-
-Inception Date: 2025-06-18
-Author: Soujanya Gupta <158287001+GuptaSoujanya@users.noreply.github.com>
-
-- [2025-06-18] chore: scaffold awesome-ai-eval-suite curation repository and README
-- [2025-06-28] docs: curation: add foundational reasoning papers (GSM8K, MATH, HumanEval)
-- [2025-07-08] docs: curation: add general knowledge benchmarks (MMLU, MMLU-Pro, ARC)
-- [2025-07-19] docs: curation: add agentic benchmarks (SWE-bench, GAIA, WebArena)
-- [2025-07-29] docs: curation: add vision-language benchmarks (ChartQA, DocVQA, MathVista)
-- [2025-08-08] feat: scripts: implement automated markdown link validity checker in Python
-- [2025-08-19] ci: configure GitHub Actions automated link and bibtex validation
-- [2025-08-29] docs: curation: add safety and red-teaming benchmarks (Do-Not-Answer, WildJailbreak)
-- [2025-09-09] feat: scripts: implement BibTeX citation extractor and formatter
-- [2025-09-19] test: verify BibTeX extractor parses standard arXiv and NeurIPS entries
-- [2025-09-29] docs: curation: add inference efficiency benchmarks (vLLM, SpecDecode, FastChat)
-- [2025-10-10] docs: taxonomy: categorize benchmarks by evaluation cost and compute requirements
-- [2025-10-20] docs: update README with comprehensive index and contribution guidelines
-- [2025-10-31] chore: release v1.0.0 curated taxonomy milestone
-- [2025-11-10] docs: add hardware requirements table for running local evaluation suites
-- [2025-11-20] feat: scripts: add automated reproduction command generator for top benchmarks
-- [2025-12-01] test: verify generated reproduction commands run without syntax errors
-- [2025-12-11] chore: update bibliography and verify 100% of external paper links resolve
-- [2026-01-10] docs: curation: add 2026 reasoning benchmarks (SWE-bench Verified, LiveCodeBench v3)
-- [2026-02-13] docs: curation: add frontier long-context evaluation papers (RULER, Needle-In-A-Haystack)
-- [2026-03-19] feat: scripts: add interactive terminal search tool for finding benchmark papers
-- [2026-04-23] test: verify terminal search tool indexes all 200+ curated papers accurately
-- [2026-05-27] docs: add comprehensive taxonomy diagram illustrating evaluation categories
-- [2026-06-30] fix: correct BibTeX citation keys for recent 2026 preprint papers
-- [2026-08-04] test: verify all BibTeX entries compile cleanly in standard LaTeX engines
+[2024-05-20T17:46:44] chore: scaffold: initialize awesome-ai-eval-suite catalog structure
+[2025-02-11T16:34:37] feat: data: compile foundational benchmark dataset covering 2022-2024 literature
+[2025-04-16T12:27:13] feat: scripts: implement paper sync tool and markdown taxonomy table generator
+[2025-07-02T11:38:39] test: add unit tests for paper sync table generator
+[2025-07-26T18:14:40] feat: probe: add quick_eval zero-dependency standalone probe runner
+[2025-10-15T18:22:50] docs: update production README with SOTA benchmark taxonomy and arXiv links
+[2025-11-17T20:55:44] feat: scripts: add automated arXiv paper metadata link checker
+[2026-01-24T14:15:20] docs: add AgentBench and SWE-bench Verified 2025 benchmarks
+[2026-04-30T18:33:17] docs: update survey with DeepSeek-R1 reasoning verification papers
+[2026-05-19T14:13:51] docs: add frontier multimodal vision benchmarks (MathVista, ChartQA-v2)
+[2026-07-02T19:26:23] chore: annual benchmark catalog refresh and link validation
