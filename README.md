@@ -43,3 +43,5 @@ CC0 1.0 Universal Public Domain Dedication.
 <!-- PR #37: test: expand edge case coverage for empty input strings -->
 
 <!-- PR #50: refactor: clean up typing annotations across core modules -->
+
+<!-- PR #63: docs: add hardware environment specifications to README -->
