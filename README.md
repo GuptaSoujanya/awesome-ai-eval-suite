@@ -47,3 +47,5 @@ CC0 1.0 Universal Public Domain Dedication.
 <!-- PR #63: docs: add hardware environment specifications to README -->
 
 <!-- PR #76: fix: prevent potential zero division during variance calculation -->
+
+<!-- PR #89: feat: add timestamp logging to telemetry output -->
