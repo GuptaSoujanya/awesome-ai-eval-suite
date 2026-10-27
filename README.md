@@ -35,3 +35,5 @@ graph TD
 ## License
 
 CC0 1.0 Universal Public Domain Dedication.
+
+<!-- PR #11: docs: clarify benchmark metric configuration options -->
