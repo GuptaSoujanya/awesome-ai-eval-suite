@@ -41,3 +41,5 @@ CC0 1.0 Universal Public Domain Dedication.
 <!-- PR #24: perf: optimize memory buffer reuse during batch evaluation -->
 
 <!-- PR #37: test: expand edge case coverage for empty input strings -->
+
+<!-- PR #50: refactor: clean up typing annotations across core modules -->
