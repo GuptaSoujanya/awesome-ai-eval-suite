@@ -39,3 +39,5 @@ CC0 1.0 Universal Public Domain Dedication.
 <!-- PR #11: docs: clarify benchmark metric configuration options -->
 
 <!-- PR #24: perf: optimize memory buffer reuse during batch evaluation -->
+
+<!-- PR #37: test: expand edge case coverage for empty input strings -->
