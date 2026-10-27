@@ -49,3 +49,5 @@ CC0 1.0 Universal Public Domain Dedication.
 <!-- PR #76: fix: prevent potential zero division during variance calculation -->
 
 <!-- PR #89: feat: add timestamp logging to telemetry output -->
+
+<!-- PR #102: chore: update pre-commit linter configurations -->
